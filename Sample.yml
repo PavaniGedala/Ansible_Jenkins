@@ -1,0 +1,4 @@
+ - name: print Hello jenkins
+   command: echo Helo Jenkins
+
+
